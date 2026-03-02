@@ -1,0 +1,12 @@
+{
+  "name": "demo_mcp",
+  "version": "1.0.0",
+  "description": "Demo repository created via MCP",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "author": "conglc",
+  "license": "MIT"
+}
